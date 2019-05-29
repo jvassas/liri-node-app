@@ -14,4 +14,6 @@ Dependencies
 Demo:
 
 To seach for information about a song, the user must run the app followed by a command. The command line input would look like this: "node liri spotify-this-song 'lost ones'". The imaged displayed shows the results.
+![spotify-this-song](https://user-images.githubusercontent.com/37188809/58589391-c7e10f00-822f-11e9-864d-21aeb12498c0.png)
+
 
