@@ -43,7 +43,7 @@ Finally, if the user does not input anything and simply runs the app, a default 
 
     node liri
     
-    
+![node-liri](https://user-images.githubusercontent.com/37188809/58590308-d2040d00-8231-11e9-8aed-5c8ea83e546f.png)
 
    
     
