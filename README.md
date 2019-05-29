@@ -6,10 +6,10 @@ Node Assignment
 This application uses the command line where users can search for information about certain songs, movies and concerts. LIRI stands for Language Interpretation and Recognition Interface. The application works by taking in parameters and sending back data to the user. This information is retrieved using the axios node package to request data from the Bands in Town, OMDB, and Spotify API's.
 
 # Dependencies
-    -axios: Used to pull data from the OMDB and Bands in Town API's. ('Installation: npm i axios')
-    -dotenv: Used to spotify credentials private. ('Installation: npm i dotenv')
-    -moment: Used to format the date of events. ('Installation: npm i moment')
-    -node-spotify-app: Used to retrieve song information from the Spotify API. (Installation: 'npm i node-spotify-api')
+-axios: Used to pull data from the OMDB and Bands in Town API's. ('Installation: npm i axios')
+-dotenv: Used to spotify credentials private. ('Installation: npm i dotenv')
+-moment: Used to format the date of events. ('Installation: npm i moment')
+-node-spotify-app: Used to retrieve song information from the Spotify API. (Installation: 'npm i node-spotify-api')
 
 # Demo:
 
@@ -30,6 +30,14 @@ When a user would like to search for information about a certain movie, a simila
 If a user wanted to find concert information for a specified artist, the user would enter:
     
     node liri concert-this 'the chainsmokers'
+    
+![concert-this](https://user-images.githubusercontent.com/37188809/58589899-f6131e80-8230-11e9-84ed-84edf159a3b2.png)
+
+A default song which is saved in the random.txt would be searched by the command:
+
+    node liri do-what-it-says
+ 
+
    
     
 
