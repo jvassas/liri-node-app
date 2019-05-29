@@ -37,6 +37,13 @@ A default song which is saved in the random.txt would be searched by the command
 
     node liri do-what-it-says
  
+ ![do-what-it-says](https://user-images.githubusercontent.com/37188809/58590178-87829080-8231-11e9-93b1-9a0a1725b512.png)
+
+Finally, if the user does not input anything and simply runs the app, a default message would appear.
+
+    node liri
+    
+    
 
    
     
